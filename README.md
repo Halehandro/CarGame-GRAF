@@ -8,3 +8,5 @@ https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoe
 2. Nakon toga u web server linkati na folder projekta
 
 3. Pristupni link na server se nalazi unutar aplikacije, nakon pokretanja preko bilo kojeg preglednika se pristupa projektu.
+
+4. Unutar stranice, otvoriti Raceonjž folder.
